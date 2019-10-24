@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="@dimen/default_padding"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/student_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:text="Student button"/>
+
+    <Button
+        android:id="@+id/teacher_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:text="Teacher button" />
+
+</LinearLayout>

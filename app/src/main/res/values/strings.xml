@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GeekHub 01</string>
+    <string name="name_hint">Enter your name</string>
+    <string name="next_button">Next</string>
+    <string name="send_email_button">Send email</string>
+    <string name="blank_name_alert">Name is empty! Please enter your name.</string>
+    <string name="student_message">Hello! My name is %1$s. I am a student.</string>
+    <string name="teacher_message">Hello! My name is %1$s. I am a teacher.</string>
+    <string name="choose_email_app_title">Choose email app</string>
+    <string name="email_subject">Hello!</string>
+    <string name="empty_message">Empty message</string>
+</resources>
